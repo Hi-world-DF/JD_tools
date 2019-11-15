@@ -12,7 +12,7 @@
 * sqldeveloper <https://pan.baidu.com/s/1PhPummwpBVKGwfLe57Acvw>
 * subeclipse-site-1.6.5_afedc  <https://pan.baidu.com/s/1w6ZUaGEEa0a4KZ5pSKxofg>
 
-有需要的可以自行下载。
+> 有需要的可以自行下载（其他工具和框架可到相应官网下载）。
 
 ## 工具介绍
 
