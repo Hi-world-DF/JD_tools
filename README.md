@@ -3,12 +3,12 @@
 * [apache-maven-3.3.3](https://github.com/Hi-world-DF/JD_tools/blob/master/apache-maven-3.3.3.zip)
 * [apache-tomcat-8.5.16 ](https://github.com/Hi-world-DF/JD_tools/blob/master/apache-tomcat-8.5.16.zip) 
 ### 以下的几个由于上传文件较大受限，所以附上网盘链接（无密码）
+* jdk1.8.0_45 <https://pan.baidu.com/s/1vMsU5PX72A8i71qyVgfeXw>
 * Axure RP Pro <https://pan.baidu.com/s/1_x5cgumFSmw99ZnRAn2bEg>
-* PowerDesigner165 <>
 * eclipse-jee-neon-1a-win32 <https://pan.baidu.com/s/1SwAK3Ld1bX1eh1Lm9Z1OgA>
 * eclipse-jee-neon-3-win32-x86_64 <https://pan.baidu.com/s/1ZrCL2EFlAlg0QV8EKmGxhw>
-* jdk1.8.0_45 <https://pan.baidu.com/s/1vMsU5PX72A8i71qyVgfeXw>
-* api文档 <>
+* IntelliJ IDEA <https://www.jetbrains.com/idea/download/#section=windows>
+* api <https://pan.baidu.com/s/18CI_fGBNzLPAYsjSyQBJLA>
 * sqldeveloper <https://pan.baidu.com/s/1PhPummwpBVKGwfLe57Acvw>
 * subeclipse-site-1.6.5_afedc  <https://pan.baidu.com/s/1w6ZUaGEEa0a4KZ5pSKxofg>
 
